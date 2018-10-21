@@ -1,5 +1,5 @@
 # MouseMove
-MouseMove is a utility for moving the mouse cursor automatically at certain intervals.
+MouseMove is a utility for moving the mouse cursor automatically at certain time intervals.
 
 ## Features
 * Move cursor either to absolute positions, or with relative distances
